@@ -1,0 +1,4 @@
+container are auto responsive 
+    types of container : 1.container
+                         2.fluid container removes jumping and uses 100% size
+                         
